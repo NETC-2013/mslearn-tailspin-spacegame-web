@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Tailspin9594/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/NETC-2013.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin9594/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=10&branchName=master)
 
 # Contributing
 
