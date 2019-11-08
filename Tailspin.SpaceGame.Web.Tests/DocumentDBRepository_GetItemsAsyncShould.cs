@@ -13,6 +13,7 @@ namespace Tests
     {
         private IDocumentDBRepository<Score> _scoreRepository;
 
+
         [SetUp]
         public void Setup()
         {
